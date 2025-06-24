@@ -1,7 +1,7 @@
 # PSEG-main
 Here is the code implementation of PSEG. We will present our model and model weights here, as well as the PSEG implementation for adding each model!  
 
-
+In the implementation of this project, pytorch==2.0.1 and cuda==11.8
 
 ## data
 
